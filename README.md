@@ -8,7 +8,7 @@
 ## 💻 Projets
  
 - 🌡️ **[Station IoT ESP32](https://github.com/Aaron-MBOUNOU/station-iot-esp32)** — Capteur DHT11, communication MQTT (Mosquitto), pilotage de relais. Firmware C++ (WiFi, JSON), architecture capteur → broker → Raspberry Pi.
-- 🧪 **SQL Trainer** — Outil interactif d'entraînement aux requêtes SQL, développé pour préparer l'épreuve E6 du BTS.
+- 🗃️ **[SQL Trainer](https://github.com/Aaron-MBOUNOU/sql-trainer)** — Outil d'entraînement SQL interactif basé sur sql.js (SQLite en WebAssembly). 9 exercices progressifs. [▶ Démo en ligne](https://aaron-mbounou.github.io/sql-trainer/)
 - 📝 **Write-ups TryHackMe** — Résolutions de rooms publiques (à venir).
 ## 🛠 Compétences
  
