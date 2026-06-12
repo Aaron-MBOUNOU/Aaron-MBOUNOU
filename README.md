@@ -7,8 +7,7 @@
  
 ## 💻 Projets
  
-- 🌡️ **Station IoT ESP32** — Capteur DHT11, communication MQTT (Mosquitto), pilotage de relais, dashboard sur Raspberry Pi. Firmware C++ (WiFi, JSON), architecture complète capteur → broker → serveur.
-   **[Station IoT ESP32](https://github.com/Aaron-MBOUNOU/station-iot-esp32)** — Capteur DHT11, communication MQTT...
+- 🌡️ **[Station IoT ESP32](https://github.com/Aaron-MBOUNOU/station-iot-esp32)** — Capteur DHT11, communication MQTT (Mosquitto), pilotage de relais. Firmware C++ (WiFi, JSON), architecture capteur → broker → Raspberry Pi.
 - 🧪 **SQL Trainer** — Outil interactif d'entraînement aux requêtes SQL, développé pour préparer l'épreuve E6 du BTS.
 - 📝 **Write-ups TryHackMe** — Résolutions de rooms publiques (à venir).
 ## 🛠 Compétences
